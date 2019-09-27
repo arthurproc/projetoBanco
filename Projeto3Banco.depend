@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1435017501 source:c:\users\marly\desktop\arthur programação\projeto3\projeto3banco\projeto3banco\banco.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<ctime>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	"banco.h"
+
+1435017253 c:\users\marly\desktop\arthur programação\projeto3\projeto3banco\projeto3banco\banco.h
+
+1435017253 source:c:\users\marly\desktop\arthur programação\projeto3\projeto3banco\projeto3banco\main.cpp
+	<iostream>
+	"banco.h"
+	<locale.h>
+
+1435017253 source:c:\users\unifei\downloads\projeto3banco\main.cpp
+	<iostream>
+	"banco.h"
+	<locale.h>
+
+1435064169 c:\users\unifei\downloads\projeto3banco\banco.h
+	<fstream>
+
+1435064210 source:h:\projeto3bancoarthur\banco.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<ctime>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	"banco.h"
+	<fstream>
+
+1435064170 h:\projeto3bancoarthur\banco.h
+	<fstream>
+
+1435017254 source:h:\projeto3bancoarthur\main.cpp
+	<iostream>
+	"banco.h"
+	<locale.h>
+
+1435064210 source:d:\fica\downloads\projeto3bancoarthur\projeto3bancoarthur\banco.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<ctime>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	"banco.h"
+	<fstream>
+
+1435064170 d:\fica\downloads\projeto3bancoarthur\projeto3bancoarthur\banco.h
+	<fstream>
+
+1435017254 source:d:\fica\downloads\projeto3bancoarthur\projeto3bancoarthur\main.cpp
+	<iostream>
+	"banco.h"
+	<locale.h>
+
